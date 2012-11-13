@@ -1,2 +1,2 @@
-Shopware_3.5
+VirtueMart 2
 ============
